@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentine's Day Proposal</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background-color: #fce4ec;
+            margin: 0;
+            padding: 0;
+            color: #7b2cbf;
+        }
+        header {
+            background-color: #f50057;
+            padding: 20px;
+            color: white;
+            font-size: 2em;
+            text-transform: uppercase;
+        }
+        .main-content {
+            margin-top: 100px;
+        }
+        .message {
+            font-size: 1.5em;
+            margin: 30px;
+        }
+        .heart {
+            color: red;
+            font-size: 2em;
+        }
+        .button {
+            background-color: #ff4081;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 1.2em;
+            border-radius: 10px;
+            margin-top: 30px;
+            display: inline-block;
+        }
+        .button:hover {
+            background-color: #e91e63;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        Will you be my Valentine, Samriddhi? 💖
+    </header>
+
+    <div class="main-content">
+        <p class="message">
+            Samriddhi, you mean the world to me. ❤️ Every moment with you is like a beautiful dream come true. This Valentine's Day, I want to take a st 
